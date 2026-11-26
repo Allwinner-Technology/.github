@@ -1,3 +1,3 @@
 ## Allwinner Technology
 
-Open source software for Allwinner SoCs, maintained by Allwinnertech.Inc. Enhance Quality of Life Through Value Innovation
+Open source software for Allwinner SoCs, maintained by Allwinner Technology Co., Ltd. Enhance Quality of Life Through Value Innovation
